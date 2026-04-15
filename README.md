@@ -44,19 +44,19 @@ Soy un estudiante de **9no ciclo de Ingeniería de Sistemas e Informática en la
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **[Mochilalista v2.0](https://github.com/TU_USUARIO/mochilalista-app)** | Automatización de ventas con escaneo IA. | Flutter, FastAPI, Docker |
-| **[Alerta Piura](https://github.com/TU_USUARIO/alerta-piura)** | Plataforma cívica con SOS en tiempo real. | Flutter, React, Sockets |
-| **[Asistente Contable](https://github.com/TU_USUARIO/AsistenteContable)** | Extracción de facturas SUNAT a Excel. | Python, Playwright, PySide6 |
-| **[Tienda Virtual](https://github.com/TU_USUARIO/tiendavirtual)** | E-commerce empresarial bajo patrón DAO. | Java (Servlets/JSP), SQL |
+| **[Mochilalista v2.0](https://github.com/jader00321/mochilalista-app)** | Automatización de ventas con escaneo IA. | Flutter, FastAPI, Docker |
+| **[Alerta Piura](https://github.com/jader00321/alerta-piura)** | Plataforma cívica con SOS en tiempo real. | Flutter, React, Sockets |
+| **[Asistente Contable](https://github.com/jader00321/AsistenteContable)** | Extracción de facturas SUNAT a Excel. | Python, Playwright, PySide6 |
+| **[Tienda Virtual](https://github.com/jader00321/tiendavirtual)** | E-commerce empresarial bajo patrón DAO. | Java (Servlets/JSP), SQL |
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jader00321&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jader00321&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes más usados" />
 </p>
 
 ---
