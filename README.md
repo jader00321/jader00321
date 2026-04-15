@@ -1,4 +1,4 @@
-# ¡Hola! Soy [Tu Nombre o Alias] 👋
+# ¡Hola! Soy [Angello] 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=435&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n;Full-Stack+Developer;Especialista+en+Flutter+y+Python;Entusiasta+de+la+IA+y+Automatizaci%C3%B3n" alt="Typing SVG" />
